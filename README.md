@@ -12,7 +12,9 @@ A preprint of the paper can be found in https://arxiv.org/pdf/1803.06329.pdf
 
 ## Usage
 
-Download and unzip the datasets. Modify the dataset paths in the main files and run them with Python 3.6. Requires Tensorflow 1.4.
+Download and unzip the datasets. Modify the dataset paths in the main files and run them with Python 3. Requires Tensorflow 1.4.
+
+Please contact me at diego.marcos@wur.nl for questions and feedback. 
 
 <a name="marcos2018"></a>
 [1] Marcos, D., Tuia, D., Kellenberger, B., Zhang, L., Bai, M., Liao, R. & Urtasun, R. (2018). Learning deep structured active contours end-to-end. arXiv preprint arXiv:1803.06329.
